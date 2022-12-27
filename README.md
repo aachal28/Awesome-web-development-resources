@@ -4,4 +4,18 @@ This is an Awesome Web Development Resources list Here you can find all free res
 Enjoy Learning :sparkles:!
 
 If you like this Repository, be sure to :star: it.
-<hr>
+<br>
+## Table of content ##
+* Youtube channels
+* Websites
+* Instagram pages
+* Coding challenge platforms
+* CSS Generators
+* UI components
+* Chrome extension
+* Docs
+* Podcasts
+* Code editoers
+* Newsletter
+* Remote jobs
+* Color pallets
