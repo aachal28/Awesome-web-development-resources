@@ -19,3 +19,20 @@ If you like this Repository, be sure to :star: it.
 * Newsletter
 * Remote jobs
 * Color pallets
+* UI Design inspiration
+
+
+*UI design inspirations
+
+🎨 <a href="">dribbble .com</a><br>
+🎨 <a href="">behance .net</a><br>
+🎨 <a href="">awwwards .com</a><br>
+🎨 <a href="">pinterest .com</a><br>
+🎨 <a href="">lapa .ninja</a><br>
+🎨 <a href="">thefwa .com</a><br>
+🎨 <a href="">cssdesignawards .com</a><br>
+🎨 <a href="">siteinspire .com</a><br>
+🎨 <a href="">designinspiration .com</a><br>
+🎨 <a href="">codepen .io</a><br>
+🎨 <a href="">collectui .com</a><br>
+🎨 <a href="">onepagelove .com</a><br>
