@@ -25,10 +25,10 @@ If you like this Repository, be sure to :star: it.
 
 ## UI design inspirations ##
 
-🎨 <a href="">dribbble .com</a><br>
-🎨 <a href="">behance .net</a><br>
-🎨 <a href="">awwwards .com</a><br>
-🎨 <a href="">pinterest .com</a><br>
+🎨 <a href="https://dribbble.com/">dribbble .com</a><br>
+🎨 <a href="https://www.behance.net/">behance .net</a><br>
+🎨 <a href="https://www.awwwards.com/">awwwards .com</a><br>
+🎨 <a href="https://in.pinterest.com/">pinterest .com</a><br>
 🎨 <a href="">lapa .ninja</a><br>
 🎨 <a href="">thefwa .com</a><br>
 🎨 <a href="">cssdesignawards .com</a><br>
