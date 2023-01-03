@@ -22,7 +22,23 @@ If you like this Repository, be sure to :star: it.
 * UI Design inspiration
 
 <br>
+## Youtube channels ##
 
+<br>
+## HTML & CSS snippets ##
+
+⚪ codepad. co
+⚪ snipplr. com
+⚪ codepen. io
+⚪ webcode .tools
+⚪ codemyui. com
+⚪ bootsnipp. com
+⚪ codeply. com
+⚪ freefrontend .com
+⚪ css-tricks. com/snippets/
+⚪ codesandbox. io/
+
+<br> 
 ## UI design inspirations ##
 
 🎨 <a href="https://dribbble.com/">dribbble .com</a><br>
