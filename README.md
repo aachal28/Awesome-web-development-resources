@@ -20,10 +20,11 @@ If you like this Repository, be sure to :star: it.
 * Remote jobs
 * Color pallets
 * UI Design inspiration
-
 <br>
+
 ## Youtube channels ##
 <br>
+
 ## HTML & CSS snippets ##
 
 ⚪ codepad. co<br>
@@ -38,6 +39,7 @@ If you like this Repository, be sure to :star: it.
 ⚪ codesandbox. io/<br>
 
 <br> 
+
 ## UI design inspirations ##
 
 🎨 <a href="https://dribbble.com/">dribbble .com</a><br>
