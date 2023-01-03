@@ -23,20 +23,19 @@ If you like this Repository, be sure to :star: it.
 
 <br>
 ## Youtube channels ##
-
 <br>
 ## HTML & CSS snippets ##
 
-⚪ codepad. co
-⚪ snipplr. com
-⚪ codepen. io
-⚪ webcode .tools
-⚪ codemyui. com
-⚪ bootsnipp. com
-⚪ codeply. com
-⚪ freefrontend .com
-⚪ css-tricks. com/snippets/
-⚪ codesandbox. io/
+⚪ codepad. co<br>
+⚪ snipplr. com<br>
+⚪ codepen. io<br>
+⚪ webcode .tools<br>
+⚪ codemyui. com<br>
+⚪ bootsnipp. com<br>
+⚪ codeply. com<br>
+⚪ freefrontend .com<br>
+⚪ css-tricks. com/snippets/<br>
+⚪ codesandbox. io/<br>
 
 <br> 
 ## UI design inspirations ##
