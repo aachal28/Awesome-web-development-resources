@@ -32,7 +32,7 @@ If you like this Repository, be sure to :star: it.
 ⚪ codepen. io<br>
 ⚪ webcode .tools<br>
 ⚪ codemyui. com<br>
-⚪ bootsnipp. com<br>
+⚪ bootsnipp. com<br> 
 ⚪ codeply. com<br>
 ⚪ freefrontend .com<br>
 ⚪ css-tricks. com/snippets/<br>
