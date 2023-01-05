@@ -25,6 +25,16 @@ If you like this Repository, be sure to :star: it.
 ## Youtube channels ##
 
 ▶ [TheNewBoston](https://www.youtube.com/user/thenewboston/videos)<br>
+▶ [CodeWithHarry](https://www.youtube.com/@CodeWithHarry)<br>
+▶ [ThapaTechnical](https://www.youtube.com/@ThapaTechnical)<br>
+▶ [Akshay saini](https://www.youtube.com/@akshaymarch7)<br>
+▶ [Freecodecamp](https://www.youtube.com/@freecodecamp)<br>
+▶ [Codingshuttle](https://www.youtube.com/@codingshuttle)<br>
+▶ [Aonacollege](https://www.youtube.com/@ApnaCollegeOfficial)<br>
+▶ [CoderCoder](https://www.youtube.com/@TheCoderCoder)<br>
+▶ [Webdevsimplified](https://www.youtube.com/@WebDevSimplified)<br>
+▶ [Codedamn](https://www.youtube.com/@codedamn)<br>
+▶ [thecodingeeks](https://www.youtube.com/channel/UCOew9K0-BxFKHHRyEMeoFxg)<br>
 ▶ [Derek Banas](https://www.youtube.com/user/derekbanas)<br>
 ▶ [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA)<br>
 ▶ [Edureka](https://www.youtube.com/user/edurekaIN)<br>
