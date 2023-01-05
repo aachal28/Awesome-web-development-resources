@@ -23,6 +23,24 @@ If you like this Repository, be sure to :star: it.
 <br>
 
 ## Youtube channels ##
+
+▶ [TheNewBoston](https://www.youtube.com/user/thenewboston/videos)<br>
+▶ [Derek Banas](https://www.youtube.com/user/derekbanas)<br>
+▶ [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA)<br>
+▶ [Edureka](https://www.youtube.com/user/edurekaIN)<br>
+▶ [Traversy Media](https://www.youtube.com/user/TechGuyWeb)<br>
+▶ [LearnCode.academy](https://www.youtube.com/user/learncodeacademy/videos)<br>
+▶ [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)<br>
+▶ [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)<br>
+▶ [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube)<br>
+▶ [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos)<br>
+▶ [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)<br>
+▶ [Treehouse](https://www.youtube.com/user/gotreehouse)<br>
+▶ [LearnWebCode](https://www.youtube.com/user/LearnWebCode)<br>
+▶ [Adam Khoury](https://www.youtube.com/user/flashbuilding)<br>
+▶ [1stWebDesigner](https://www.youtube.com/user/1stwebdesigner/videos)<br>
+▶ [Tuts+ Web Design](https://www.youtube.com/user/webdesigntutsplus/videos)<br>
+▶ [Joseph Smith](https://www.youtube.com/user/TheHelpingDevelop)<br>
 <br>
 
 ## HTML & CSS snippets ##
