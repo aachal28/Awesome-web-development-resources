@@ -16,7 +16,7 @@ If you like this Repository, be sure to :star: it.
 * Docs
 * Podcasts
 * Code editoers
-* [HTML & CSS snippets](#HTML-&-CSS-snippets)
+* [HTML & CSS snippets](#html-&-css-snippets)
 * Newsletter
 * Remote jobs
 * Color pallets
