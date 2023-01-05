@@ -38,7 +38,7 @@ If you like this Repository, be sure to :star: it.
 ⚪ [codeply.com](https://www.codeply.com/)<br>
 ⚪ [freefrontend.com [HTML]](https://freefrontend.com/html-code-examples/)<br>
 ⚪ [freefrontend.com [CSS]](https://freefrontend.com/css-code-examples/)<br>
-⚪ [css-tricks.com](https://css-tricks.com/)/<br>
+⚪ [css-tricks.com](https://css-tricks.com/)<br>
 ⚪ codesandbox.io<br>
 
 <br> 
