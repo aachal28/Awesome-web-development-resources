@@ -6,7 +6,7 @@ Enjoy Learning :sparkles:!
 If you like this Repository, be sure to :star: it.
 <br>
 ## Table of content ##
-* Youtube channels
+* [Youtube channels](#youtube-channels)
 * Websites
 * Instagram pages
 * Coding challenge platforms
@@ -16,6 +16,7 @@ If you like this Repository, be sure to :star: it.
 * Docs
 * Podcasts
 * Code editoers
+* [HTML & CSS snippets](#HTML-&-CSS-snippets)
 * Newsletter
 * Remote jobs
 * Color pallets
