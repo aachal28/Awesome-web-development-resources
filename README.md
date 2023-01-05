@@ -28,18 +28,18 @@ If you like this Repository, be sure to :star: it.
 ## HTML & CSS snippets ##
 
 ⚪ [codepad.co](https://codepad.co/snippets?sortBy=popular&filterTime=all&languages%5B%5D=180&languages%5B%5D=188&languages%5B%5D=223)<br>
-⚪ [snipplr.com[css]](https://snipplr.com/popular?language=css)<br>
-⚪ [snipplr.com[html]](https://snipplr.com/popular?language=html)<br>
+⚪ [snipplr.com [CSS]](https://snipplr.com/popular?language=css)<br>
+⚪ [snipplr.com [HTML]](https://snipplr.com/popular?language=html)<br>
 ⚪ [codepen.io](https://codepen.io/search/pens?q=html)<br>
-⚪ [webcode.tools[CSS Generator]](https://webcode.tools/generators/css)<br>
-⚪ [webcode.tools[HTML Generator]](https://webcode.tools/generators/html)<br>
+⚪ [webcode.tools [CSS Generator]](https://webcode.tools/generators/css)<br>
+⚪ [webcode.tools [HTML Generator]](https://webcode.tools/generators/html)<br>
 ⚪ [codemyui.com](https://codemyui.com/)<br>
 ⚪ [bootsnipp.com](https://bootsnipp.com/)<br> 
 ⚪ [codeply.com](https://www.codeply.com/)<br>
-⚪ [freefrontend.com[HTML]](https://freefrontend.com/html-code-examples/)<br>
-⚪ [freefrontend.com[CSS]](https://freefrontend.com/css-code-examples/)<br>
+⚪ [freefrontend.com [HTML]](https://freefrontend.com/html-code-examples/)<br>
+⚪ [freefrontend.com [CSS]](https://freefrontend.com/css-code-examples/)<br>
 ⚪ [css-tricks.com](https://css-tricks.com/)/<br>
-⚪ codesandbox.io/<br>
+⚪ codesandbox.io<br>
 
 <br> 
 
