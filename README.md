@@ -7,13 +7,14 @@ If you like this Repository, be sure to :star: it.
 <br>
 ## Table of content ##
 * [Youtube channels](#youtube-channels)
-* Websites
+* [Websites[(#websites)
 * Instagram pages
 * Coding challenge platforms
 * CSS Generators
 * UI components
 * Chrome extension
 * Docs
+* [cheatsheets](#cheatsheets)
 * Podcasts
 * Code editoers
 * [HTML & CSS snippets](#html-&-css-snippets)
@@ -54,6 +55,56 @@ If you like this Repository, be sure to :star: it.
 ▶ [Joseph Smith](https://www.youtube.com/user/TheHelpingDevelop)<br>
 <br>
 
+## Websites ##
+
+Useful websites to practice your Web Development skills
+👇👇
+
+1. HTML
+
+https://www.w3schools.com/html/
+
+2. CSS
+
+https://www.w3schools.com/css/
+
+https://cssbattle.dev/
+
+3. Front End Development Libraries
+
+https://www.freecodecamp.org/learn/front-end-development-libraries/
+
+4. Java script
+
+https://javascript30.com/
+
+https://snipcart.com/blog/javascript-practice-exercises
+
+https://www.codewars.com/collections/coding-challenges
+
+5. React
+
+https://t.me/webdevcoursefree/110
+
+https://fullstackopen.com/en/part10
+
+6. Other Resources
+
+https://devchallenges.io/
+
+http://codier.io/
+
+<br>
+
+## Cheatsheets ##
+
+Websites For Web Development Cheat Sheets<br>
+
+[thinkful] (https://www.thinkful.com/blog/web-developer-cheat-sheet/)<br>
+[html.com](https://html.com/blog/100-web-development-cheat-sheets/)<br>
+[dev.to](https://dev.to/haycuoilennao19/35-website-cheat-sheet-for-developer-22hk)
+
+<br>
 ## HTML & CSS snippets ##
 
 ⚪ [codepad.co](https://codepad.co/snippets?sortBy=popular&filterTime=all&languages%5B%5D=180&languages%5B%5D=188&languages%5B%5D=223)<br>
