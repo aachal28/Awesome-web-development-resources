@@ -7,7 +7,7 @@ If you like this Repository, be sure to :star: it.
 <br>
 ## Table of content ##
 * [Youtube channels](#youtube-channels)
-* [Websites[(#websites)
+* [Websites](#websites)
 * Instagram pages
 * Coding challenge platforms
 * CSS Generators
@@ -125,6 +125,7 @@ Websites For Web Development Cheat Sheets<br>
 📃 [developer-cheatsheet](http://www.developer-cheatsheets.com/)<br>
 
 <br>
+
 ## HTML & CSS snippets ##
 
 ⚪ [codepad.co](https://codepad.co/snippets?sortBy=popular&filterTime=all&languages%5B%5D=180&languages%5B%5D=188&languages%5B%5D=223)<br>
