@@ -57,7 +57,7 @@ If you like this Repository, be sure to :star: it.
 
 ## Websites ##
 
-Useful websites to practice your Web Development skills
+<!-- Useful websites to practice your Web Development skills
 👇👇
 
 1. HTML
@@ -94,13 +94,13 @@ https://devchallenges.io/
 
 http://codier.io/
 
-<br>
+<br>-->
 
 ## Cheatsheets ##
 
 Websites For Web Development Cheat Sheets<br>
 
-[thinkful] (https://www.thinkful.com/blog/web-developer-cheat-sheet/)<br>
+[thinkful](https://www.thinkful.com/blog/web-developer-cheat-sheet/)<br>
 [html.com](https://html.com/blog/100-web-development-cheat-sheets/)<br>
 [dev.to](https://dev.to/haycuoilennao19/35-website-cheat-sheet-for-developer-22hk)
 
