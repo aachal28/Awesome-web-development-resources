@@ -100,9 +100,30 @@ http://codier.io/
 
 Websites For Web Development Cheat Sheets<br>
 
-[thinkful](https://www.thinkful.com/blog/web-developer-cheat-sheet/)<br>
-[html.com](https://html.com/blog/100-web-development-cheat-sheets/)<br>
-[dev.to](https://dev.to/haycuoilennao19/35-website-cheat-sheet-for-developer-22hk)
+📃 [thinkful](https://www.thinkful.com/blog/web-developer-cheat-sheet/)<br>
+📃 [html.com](https://html.com/blog/100-web-development-cheat-sheets/)<br>
+📃 [dev.to](https://dev.to/haycuoilennao19/35-website-cheat-sheet-for-developer-22hk)
+📃 [hackerthemes](https://hackerthemes.com/bootstrap-cheatsheet)
+📃 [seo=cheat-sheet](https://moz.com/learn/seo/seo-cheat-sheet)
+
+* HTML
+📃 [html5doctor](http://html5doctor.com/element-index/)
+📃 [htmlcheatsheet](https://htmlcheatsheet.com/)
+📃 [html5sec](https://html5sec.org/)
+📃 [html5-canvas-cheat-sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
+
+
+*CSS
+📃 [caniuse](https://caniuse.com/)
+📃 [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/)
+📃 [css grid cheat sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
+📃 [grid](https://grid.malven.co/)
+📃 [media-queries-cheat-sheet](https://mac-blog.org.ua/css-3-media-queries-cheat-sheet/)
+📃 [responsive_web_design_cheatsheet](https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf)
+
+*Javascript
+📃 [modern-js-cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
+📃 [developer-cheatsheet](http://www.developer-cheatsheets.com/)
 
 <br>
 ## HTML & CSS snippets ##
