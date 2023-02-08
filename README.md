@@ -8,7 +8,7 @@ If you like this Repository, be sure to :star: it.
 ## Table of content ##
 * [Youtube channels](#youtube-channels)
 * [Websites](#websites)
-* Instagram pages(#instagram-pages)
+* [Instagram pages](#instagram-pages)
 * Coding challenge platforms
 * CSS Generators
 * UI components
