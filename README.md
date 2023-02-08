@@ -96,30 +96,30 @@ http://codier.io/
 <br>
 
 ## Instagram Pages ##
-[Code Station](https://www.instagram.com/code_station_/)<br>
-[Code architects](https://www.instagram.com/code.architects/)<br>
-[vee codes](https://www.instagram.com/vee.codes/)<br>
-[Design with rehana](https://www.instagram.com/designwithrehana/)<br>
-[Baby wolf code](https://www.instagram.com/baby_wolf_codes/)<br>
-[Code with random](https://www.instagram.com/codewith_random/)<br>
-[Code with biki](https://www.instagram.com/codewithbiki/)<br>
-[Code with harshad](https://www.instagram.com/codewithharshad/)<br>
-[julio codes](https://www.instagram.com/juliocodes/)<br>
-[Frontend everything](https://www.instagram.com/frontendeverything/)<br>
-[Html hints](https://www.instagram.com/htmlhints/)<br>
-[Frontend webdevelopers](https://www.instagram.com/frontendwebdevelopers/)<br>
-[Frontendjoe](https://www.instagram.com/frontendjoe/)<br>
-[Parth web dev](https://www.instagram.com/parth.webdev/)<br>
-[webstrom tech](https://www.instagram.com/webstrom_tech/)<br>
-[David web dev](https://www.instagram.com/david.webdev/)<br>
-[Code clash](https://www.instagram.com/code.clash/)<br>
-[Coding master](https://www.instagram.com/coding_.master/)<br>
-[Developers community](https://www.instagram.com/developers_community_._/)<br>
-[edurise](https://www.instagram.com/reactjs1/)<br>
-[Richwebdeveloper](https://www.instagram.com/richwebdeveloper/)<br>
-[Cssdevarmy](https://www.instagram.com/cssdevarmy/)<br>
-[Sparsh codes](https://www.instagram.com/sparshcodes/)<br>
-[Coding batch](https://www.instagram.com/coding.batch/)<br>
+📍 [Code Station](https://www.instagram.com/code_station_/)<br>
+📍 [Code architects](https://www.instagram.com/code.architects/)<br>
+📍 [vee codes](https://www.instagram.com/vee.codes/)<br>
+📍 [Design with rehana](https://www.instagram.com/designwithrehana/)<br>
+📍 [Baby wolf code](https://www.instagram.com/baby_wolf_codes/)<br>
+📍 [Code with random](https://www.instagram.com/codewith_random/)<br>
+📍 [Code with biki](https://www.instagram.com/codewithbiki/)<br>
+📍 [Code with harshad](https://www.instagram.com/codewithharshad/)<br>
+📍 [julio codes](https://www.instagram.com/juliocodes/)<br>
+📍 [Frontend everything](https://www.instagram.com/frontendeverything/)<br>
+📍 [Html hints](https://www.instagram.com/htmlhints/)<br>
+📍 [Frontend webdevelopers](https://www.instagram.com/frontendwebdevelopers/)<br>
+📍 [Frontendjoe](https://www.instagram.com/frontendjoe/)<br>
+📍 [Parth web dev](https://www.instagram.com/parth.webdev/)<br>
+📍 [webstrom tech](https://www.instagram.com/webstrom_tech/)<br>
+📍 [David web dev](https://www.instagram.com/david.webdev/)<br>
+📍 [Code clash](https://www.instagram.com/code.clash/)<br>
+📍 [Coding master](https://www.instagram.com/coding_.master/)<br>
+📍 [Developers community](https://www.instagram.com/developers_community_._/)<br>
+📍 [edurise](https://www.instagram.com/reactjs1/)<br>
+📍 [Richwebdeveloper](https://www.instagram.com/richwebdeveloper/)<br>
+📍 [Cssdevarmy](https://www.instagram.com/cssdevarmy/)<br>
+📍 [Sparsh codes](https://www.instagram.com/sparshcodes/)<br>
+📍 [Coding batch](https://www.instagram.com/coding.batch/)<br>
 
 
 ## Cheatsheets ##
