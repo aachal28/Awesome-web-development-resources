@@ -9,7 +9,7 @@ If you like this Repository, be sure to :star: it.
 * [Youtube channels](#youtube-channels)
 * [Websites](#websites)
 * [Instagram pages](#instagram-pages)
-* [Coding challenge] (#Coding-challeneg-websites)
+* [Coding challenge](#Coding-challenge-websites)
 * CSS Generators
 * UI components
 * Chrome extension
@@ -119,10 +119,12 @@ http://codier.io/
 📍 [Richwebdeveloper](https://www.instagram.com/richwebdeveloper/)<br>
 📍 [Cssdevarmy](https://www.instagram.com/cssdevarmy/)<br>
 📍 [Sparsh codes](https://www.instagram.com/sparshcodes/)<br>
-📍 [Coding batch](https://www.instagram.com/coding.batch/)<br>
+📍 [Coding batch](https://www.instagram.com/coding.batch/)
+<br>
 
-## Coding challeneg websites ##
+## Coding challenge websites ##
 
+<br>
 ## Cheatsheets ##
 
 Websites For Web Development Cheat Sheets<br>
