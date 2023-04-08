@@ -9,7 +9,7 @@ If you like this Repository, be sure to :star: it.
 * [Youtube channels](#youtube-channels)
 * [Websites](#websites)
 * [Instagram pages](#instagram-pages)
-* [Coding challenge] (#platforms)
+* [Coding challenge] (#Coding-challeneg-websites)
 * CSS Generators
 * UI components
 * Chrome extension
