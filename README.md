@@ -16,7 +16,7 @@ If you like this Repository, be sure to :star: it.
 * Docs
 * [cheatsheets](#cheatsheets)
 * Podcasts
-* Code editoers
+* Code editors
 * [HTML & CSS snippets](#html-&-css-snippets)
 * Newsletter
 * Remote jobs
