@@ -62,6 +62,7 @@ Useful websites to learning Web Development 👇👇
 1. HTML
 
 https://www.w3schools.com/html/
+https://html.com/
 
 2. CSS
 
