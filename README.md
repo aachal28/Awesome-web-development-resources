@@ -4,8 +4,8 @@ This is an Awesome Web Development Resources list Here you can find all free res
 ## Enjoy Learning :sparkles:!
 
 # ⭐ Show Your Support
-If you find this repository helpful, don't forget to ⭐ it! Your support means a lot and helps others discover these valuable resources.
-<br>
+If you find this repository helpful, don't forget to ⭐ it! 
+Your support means a lot and helps others discover these valuable resources.
 
 ## Table of content ##
 Explore a diverse range of Resorces ☟
