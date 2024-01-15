@@ -1,7 +1,8 @@
 # Awesome-web-development-resources 🚀
 This is an Awesome Web Development Resources list Here you can find all free resources to learn web development &#9759;  
 
-## Enjoy Learning :sparkles:!
+# 🌐 Demo 
+Explore the live demo [here](https://aachal28.github.io/Awesome-web-development-resources/).
 
 # ⭐ Show Your Support
 If you find this repository helpful, don't forget to ⭐ it! 
