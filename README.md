@@ -1,4 +1,4 @@
-# Awesome-web-development-resources
+# Awesome-web-development-resources 🚀
 This is an Awesome Web Development Resources list Here you can find all free resources to learn web development &#9759;  
 
 Enjoy Learning :sparkles:!
@@ -230,3 +230,12 @@ Websites For Web Development Cheat Sheets<br>
 🎨 <a href="https://codepen.io/">codepen.io</a><br>
 🎨 <a href="https://collectui.com/">collectui.com</a><br>
 🎨 <a href="https://onepagelove.com/">onepagelove.com</a><br>
+
+#✨ Contributing
+Have additional resources to share? Contributions are welcome!
+
+# 📚 License
+This repository is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+
+## Happy learning and coding! 🚀🌐
+
