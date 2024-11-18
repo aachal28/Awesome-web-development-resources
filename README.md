@@ -237,7 +237,7 @@ Websites For Web Development Cheat Sheets<br>
 🎨 <a href="https://onepagelove.com/">onepagelove.com</a><br>
 
 # ✨Contributing
-  Have additional resources to share? Contributions are welcome!
+  Have additional resources to share? Contributions are welcome🙏!
 
 # 📚 License
 This repository is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
