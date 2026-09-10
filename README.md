@@ -99,6 +99,8 @@ https://devchallenges.io/
 
 http://codier.io/
 
+https://github.com/gibbok/typescript-book
+
 <br>
 
 ## Instagram Pages ##
@@ -244,4 +246,3 @@ This repository is licensed under the MIT License - see the [LICENSE.md](LICENSE
 
 
 ## Happy learning and coding! 🚀🌐
-
