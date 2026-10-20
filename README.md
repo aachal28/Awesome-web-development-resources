@@ -26,6 +26,7 @@ Explore a diverse range of Resorces ☟
 * Newsletter
 * Remote jobs
 * Color pallets
+* Notes
 * [UI Design inspiration](#ui-design-inspirations)
 <br>
 
