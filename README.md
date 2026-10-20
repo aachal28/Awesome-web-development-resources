@@ -88,6 +88,8 @@ https://snipcart.com/blog/javascript-practice-exercises
 
 https://www.codewars.com/collections/coding-challenges
 
+[Compare JSON: Object Keys, Array Order and Record IDs — BestJSON](https://bestjson.com/learn/compare-json-ignore-order)
+
 5. React
 
 https://t.me/webdevcoursefree/110
